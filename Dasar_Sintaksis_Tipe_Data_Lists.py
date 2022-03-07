@@ -26,4 +26,10 @@ daftar_buku.append("Kalkulus jilid 1")
 for i in range (0, len(daftar_buku)):
     print(daftar_buku[i])
 
+print('\nClear List')
+daftar_buku.clear()
+for i in range (0, len(daftar_buku)):
+    print(daftar_buku[i])
+
+
 
